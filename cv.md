@@ -31,5 +31,5 @@ Also I'm interested in UX/UI design, human behaviour psychology and modern techn
  - Codeacademy courses: [Learn CSS, Introduction to HTML](https://www.codecademy.com/users/Ereburg/achievements)
  - HTMLAcademy courses: [Visit to see more](https://htmlacademy.ru/profile/id900503/achievements)
  
- ### Foreign Languages 
+### Foreign Languages 
  - English: Intermediate (B1). [EPAM training center](https://training.by/UserProfile#/Main/148960)
