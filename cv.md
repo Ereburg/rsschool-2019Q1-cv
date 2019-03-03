@@ -1,4 +1,3 @@
-[rsschool-2019Q1-cv](https://github.com/Ereburg/rsschool-2019Q1-cv/blob/gh-pages/cv.md)
 # Eugene Kotsarev
 ## Junior Front-End Developer
 ### Contacts:
