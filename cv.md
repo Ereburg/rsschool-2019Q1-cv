@@ -13,12 +13,12 @@ Also I'm interested in UX/UI design, human behaviour psychology and modern techn
 
 ### Work Experience
 Worked as a Commodity expert in July 2016 - Sept 2018. My duties were: 
-- Analysis of business requirements and communicating with customers to clarify them; 
+- Analysis of business requirements and communicating with customers to clarify them; product
 - creating specifications for inner company needs; 
-- product testing and bug reports writing |
+- product testing and bug reports writing
 
 ### Education
-- Belarussian State Economic University (September 2011 – June 2016) - Bachelor degree in product management and expertise, Faculty of Economics and Trade Management.
+- Belarussian State Economic University (September 2011 – June 2016) - Bachelor degree in commodity science and expertise, Faculty of Economics and Trade Management.
 
 ### Skills
 - Programming Languages: Javascript (including ES 2015)
