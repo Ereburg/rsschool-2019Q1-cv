@@ -6,15 +6,16 @@
 -  Github: https://github.com/ereburg
 
 ### Summary
-Few monthes ago I began studying web development and decided to change my previous job (and whole life) in order to have more experience in programming and get some extra knowledges in web. 
+Few monthes ago I became interested in web development and, you know, it fascinated me so much that I decided to change my scope of activity. Therefore, I began to attend online courses, watch tutorials, read books and, finally, programming. In order to gain more experience and get some extra knowledges in web I decided to attend RSS course, cos' I really passion about programming.
 I'm highly *responsible*, *motivated* and really *passionate* about my work. I always dive deep into projects and care greatly about the final product. 
 I have good *planning skills, strong critical thinking and communication skills*. I'm always looking for professional learning opportunities and working on *self-development*. 
 Also I'm interested in UX/UI design, human behaviour psychology and modern technologies.
 
 ### Work Experience
-| Company       |     Job title    |   Working period  |    Job description     |
-| ------------- |:----------------:|:-----------------:|:----------------------:|
-| Adhesia       | Commodity expert | July 2016 - Sept 2018 | Analysis of business requirements and communicating with customers to clarify them; creating specifications for inner company needs; product testing and bug reports writing |
+Worked as a Commodity expert in July 2016 - Sept 2018. My duties were: 
+- Analysis of business requirements and communicating with customers to clarify them; 
+- creating specifications for inner company needs; 
+- product testing and bug reports writing |
 
 ### Education
 - Belarussian State Economic University (September 2011 – June 2016) - Bachelor degree in product management and expertise, Faculty of Economics and Trade Management.
