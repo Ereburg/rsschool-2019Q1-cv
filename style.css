@@ -706,12 +706,12 @@ footer {
 .social::before{
     position: absolute;
     z-index: 40;
-    top: -4.5rem;
-    left: 1rem;
+    top: 7.5rem;
+    left: -5rem;
     content: "";
     display: inline-block;
     width: 7rem;
-    height: 11rem;
+    height: 7rem;
     background: linear-gradient(to bottom, #FF6F91, #FF9671, #FFC75F, #F9F871);
     transform: skew(0deg, 3deg) rotate(0deg);
     border-bottom-right-radius: 80rem;
